@@ -4,7 +4,7 @@ This project builds an **AI-powered FAQ Assistant** using **Amazon Bedrock**, **
 
 ---
 
-## 🚀 What You’ll Build
+## What You’ll Build
 
 An API with two endpoints:
 
