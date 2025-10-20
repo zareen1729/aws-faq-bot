@@ -1,4 +1,4 @@
-# AWS FAQ Bot 🤖
+# AWS FAQ Bot 
 
 This project builds an **AI-powered FAQ Assistant** using **Amazon Bedrock**, **AWS Lambda**, and **API Gateway** — all deployed with AWS CDK.
 
@@ -20,7 +20,7 @@ An API with two endpoints:
 
 ---
 
-## 🧠 Step-by-Step Implementation
+##  Step-by-Step Implementation
 
 ### 1️⃣ Create the Knowledge Base
 1. Go to **Amazon Bedrock → Knowledge Bases → Create**
@@ -83,7 +83,7 @@ Response:
 
 ---
 
-## 🧩 Lessons Learned
+##  Lessons Learned
 
 - **IAM permissions** are critical for Lambda to call Bedrock.
 - **Region alignment** between model, KB, and Lambda is essential.
@@ -91,7 +91,7 @@ Response:
 
 ---
 
-## 📂 Repo Structure
+##  Repo Structure
 ```
 aws-faq-bot/
 ├── cdk/
@@ -109,12 +109,12 @@ aws-faq-bot/
 
 ---
 
-## 🧱 Architecture
+##  Architecture
 See `architecture.png`
 
 ---
 
-## 👏 Author
+##  Author
 **Zareen Khan**  
-DevOps | SRE | AWS Enthusiast | AI Explorer  
+ SRE | DevOps | AWS Enthusiast | AI Explorer  
 📍 California, USA
